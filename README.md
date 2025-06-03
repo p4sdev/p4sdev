@@ -35,7 +35,7 @@
 
 ## 📫 Get in Touch
 
-- ✉️ Email: **vldmrpashkin@gmail.com**
+- ✉️ Email: **vldmrpashkin@icloud.com**
 - 💬 Telegram: [@pashkinva](https://t.me/pashkinva)
 
 ---

@@ -1,4 +1,4 @@
-![Banner](https://github.com/p4sdev/p4sdev/banner.png)
+![Banner](https://raw.githubusercontent.com/p4sdev/p4sdev/refs/heads/main/banner.png)
 <h1 align="center">Hey, I'm Vladimir 👋</h1>
 <p align="center">
   💻 Aspiring Front-End Developer <br>

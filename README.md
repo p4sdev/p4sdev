@@ -36,7 +36,7 @@
 ## 📫 Get in Touch
 
 - ✉️ Email: **vldmrpashkin@gmail.com**
-- 💬 Telegram: [@p4sdev](https://t.me/p4sdev)
+- 💬 Telegram: [@pashkinva](https://t.me/pashkinva)
 
 ---
 

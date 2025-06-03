@@ -23,10 +23,10 @@ Welcome to my GitHub profile!
 
 ## 📈 GitHub Stats:
 
-![Pasforce's GitHub stats](https://github-readme-stats.vercel.app/api?username=Pasforce&show_icons=true&theme=radical)
+![Pasforce's GitHub stats](https://github-readme-stats.vercel.app/api?username=p4sdev&show_icons=true&theme=radical)
 
 ## 🏆 Top Languages:
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Pasforce&layout=compact&theme=radical)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=p4sdev&layout=compact&theme=radical)
 
 Thanks for visiting my profile! Have a great day! 😄

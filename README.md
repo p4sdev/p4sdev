@@ -29,7 +29,7 @@
 
 | Project | Tech Stack | Description |
 |--------|------------|-------------|
-| [nextjs-dashboard](https://github.com/p4sdev/nextjs-dashboard) | Next.js, TypeScript, Tailwind | A practice admin dashboard using modern UI libraries |
+| [refla-mirror-site](https://github.com/p4sdev/refla-mirror-site) | Next.js, TypeScript, Tailwind, Node.js, BackEnd | A practice using modern UI libraries and SQL requests |
 | 💡 Coming soon | JS/Python | User scripts & web automation tools |
 
 ---

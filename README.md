@@ -1,70 +1,85 @@
-![Banner](https://raw.githubusercontent.com/p4sdev/p4sdev/refs/heads/main/github-profile-banner.png)
-<h1 align="center">Hey, I'm Vladimir 👋</h1>
+![Banner](https://raw.githubusercontent.com/P4SVAL/P4SVAL/main/github-profile-banner.png)
+
+<h1 align="center">Привет! Я Владимир Пашкин 👋</h1>
 <p align="center">
-  💻 Aspiring Front-End Developer <br>
-  🛠 Learning Web Automation, JavaScript & Python <br>
-  🚀 Exploring my path in IT
+  💻 Фронтенд-разработчик и digital-дизайнер <br>
+  🧩 Создаю интерфейсы, которые объединяют эстетику и производительность <br>
+  🌐 Автор проекта <a href="https://refla.ru" target="_blank">REFLA.ru</a> — зеркала на входные двери “под ключ”
 </p>
 
 ---
 
-## 🧠 Skills
+## 🪞 Обо мне
 
-- Building UI with **HTML**, **CSS**, **JavaScript**
-- Experience with **Next.js**, **TypeScript**, **Tailwind CSS**, **shadcn/ui**
-- Writing custom **User Scripts** to automate tasks in the browser
-- Learning **Web Automation** using **Python**
+Я разрабатываю **чистые, быстрые и понятные интерфейсы**, где дизайн и код работают как единое целое.  
+Сейчас фокусируюсь на проектах, которые решают реальные задачи бизнеса — например, [REFLA.ru](https://refla.ru): сайт для компании по установке зеркал на двери.  
 
----
+**Мне интересно:**  
+- проектировать логичные и эстетичные UI;  
+- писать надёжный, поддерживаемый фронтенд на **React / Next.js**;  
+- автоматизировать рутину с помощью **Python** и пользовательских скриптов;  
+- искать визуальный баланс между кодом и композицией.
 
-## 🔍 Currently Focused On
-
-- ⚙️ Web Automation with **Playwright**, **Puppeteer**, **Selenium**
-- 🧪 Automated UI Testing
-- ⚛️ Deepening JavaScript knowledge & application architecture
+> “Код — это тоже дизайн. Просто без цвета и теней.”
 
 ---
 
-## 🧩 Pet Projects
+## 🧠 Навыки
 
-| Project | Tech Stack | Description |
-|--------|------------|-------------|
-| [refla-mirror-site](https://github.com/p4sdev/refla-mirror-site) | Next.js, TypeScript, Tailwind, Node.js, BackEnd | A practice using modern UI libraries and SQL requests |
-| 💡 Coming soon | JS/Python | User scripts & web automation tools |
-
----
-
-## 📫 Get in Touch
-
-- ✉️ Email: **vldmrpashkin@icloud.com**
-- 💬 Telegram: [@pashkinva](https://t.me/pashkinva)
+| Область | Технологии |
+|----------|-------------|
+| Фронтенд | HTML • CSS • JavaScript (ES6+) • TypeScript |
+| Фреймворки | React • Next.js |
+| Стили | Tailwind CSS • shadcn/ui • CSS Modules |
+| Автоматизация | Python • Playwright • Selenium |
+| Дизайн | Figma • Минимализм • Прототипирование интерфейсов |
 
 ---
 
-## ⚡ Fun Fact
+## 🚀 Проект
 
-> I believe progress comes from small steps taken consistently. Every script and every UI I build takes me closer to mastery.
+### [REFLA Mirror Site](https://github.com/P4SVAL/refla-mirror-site)
+> Зеркальная версия коммерческого сайта [REFLA.ru](https://refla.ru) — учебно-прикладной проект.
 
----
+**Стек:** Next.js • TypeScript • TailwindCSS  
 
-## 🧮 GitHub Stats
+**Особенности:**
+- статическая генерация для мгновенной загрузки;  
+- адаптивная вёрстка и чистая архитектура компонентов;  
+- подготовка к SEO и интеграции CMS.
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=p4sdev&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=p4sdev&layout=compact&theme=tokyonight" alt="Top Languages" />
+  <a href="https://refla.ru" target="_blank">
+    <img src="https://refla.ru/img/refla-preview.jpg" alt="REFLA preview" width="600" style="border-radius:10px;">
+  </a>
 </p>
 
 ---
 
-## 🧰 Tools & Technologies
+## 📫 Контакты
 
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=js,ts,react,nextjs,tailwind,python,git,vscode,html,css" alt="My Tech Stack" />
-</p>
+- ✉️ **vldmrpashkin@icloud.com**  
+- 💬 [@pashkinva](https://t.me/pashkinva)  
+- 🌐 [refla.ru](https://refla.ru)  
+- 🧱 [github.com/P4SVAL](https://github.com/P4SVAL)
 
 ---
 
-⭐️ *If you like what I do, consider giving my projects a star and connecting!*
+## ⚡ Немного философии
+
+> Я не просто делаю сайты — я создаю **отражения идей**.  
+> Каждый элемент интерфейса — это мысль, переведённая на язык кода.
+
+---
+
+## 🌎 English Version
+
+**Hey! I’m Vladimir Pashkin — Front-End Developer & Digital Designer.**  
+I build fast, minimal, and aesthetic user interfaces with **React**, **Next.js**, and **TypeScript**.  
+Creator of [REFLA.ru](https://refla.ru) — a real-world business website that merges design and logic.  
+
+💡 I believe every line of code and every pixel should serve a clear purpose.
+
+---
+
+⭐️ *Если понравился мой профиль — поставь звезду проектам и подпишись!*

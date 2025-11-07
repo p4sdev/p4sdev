@@ -48,12 +48,6 @@
 - адаптивная вёрстка и чистая архитектура компонентов;  
 - подготовка к SEO и интеграции CMS.
 
-<p align="center">
-  <a href="https://refla.ru" target="_blank">
-    <img src="https://refla.ru/img/refla-preview.jpg" alt="REFLA preview" width="600" style="border-radius:10px;">
-  </a>
-</p>
-
 ---
 
 ## 📫 Контакты

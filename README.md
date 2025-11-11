@@ -1,5 +1,3 @@
-![Banner](https://github.com/P4SVAL/PASVAL/blob/main/github-profile-banner.png)
-
 <h1 align="center">Привет! Я Владимир Пашкин 👋</h1>
 <p align="center">
   💻 Фронтенд-разработчик и digital-дизайнер <br>

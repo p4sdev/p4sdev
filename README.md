@@ -53,7 +53,7 @@
 - ✉️ **vldmrpashkin@icloud.com**  
 - 💬 [@pashkinva](https://t.me/pashkinva)  
 - 🌐 [refla.ru](https://refla.ru)  
-- 🧱 [github.com/P4SVAL](https://github.com/P4SVAL)
+- 🧱 [github.com/P4SVAL](https://github.com/vexel-prod)
 
 ---
 

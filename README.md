@@ -51,9 +51,7 @@
 ## 📫 Контакты
 
 - ✉️ **vldmrpashkin@icloud.com**  
-- 💬 [@pashkinva](https://t.me/pashkinva)  
-- 🌐 [refla.ru](https://refla.ru)  
-- 🧱 [github.com/vexel-prod](https://github.com/vexel-prod)
+- 💬 [@pashkinva](https://t.me/pashkinva)
 
 ---
 
